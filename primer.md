@@ -33,11 +33,10 @@ We hope this booklet serves as both a comprehensive reference and an invitation 
 ---
 
 **Tommy W. Terooatea**  
-**Manus AI**  
 November 2025
 # scQDiff: A Comprehensive Guide to Quantum-Inspired Single-Cell Trajectory Analysis
 
-**Authors:** Tommy W. Terooatea, Manus AI
+**Authors:** Tommy W. Terooatea
 
 ---
 

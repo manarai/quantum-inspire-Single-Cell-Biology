@@ -344,14 +344,15 @@ scQDiff establishes a rigorous mathematical foundation for learning and manipula
 
 ---
 
-Acknowledgements
+## Acknowledgements
 
 The authors acknowledge the use of AI tools (including Manus, ChatGPT, and Deepseek) for assistance in organizing the manuscript, suggesting methodological approaches, and proofreading the text.
 
-Author Contributions
+## Author Contributions
 
 T.W.T.: Conceptualization, Project Administration, Methodology, Writing – Original Draft Preparation, Writing – Review & Editing.
 AI Tools (Manus, ChatGPT, Deepseek): Methodology Suggestions, Writing – Assistance in Organization and Drafting, Proofreading.
+
 ---
 
 ## Competing Interests
